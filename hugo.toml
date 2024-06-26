@@ -1,0 +1,4 @@
+baseURL = 'https://oh.wxy.sexy/'
+languageCode = 'en-us'
+title = 'TailWeb'
+theme = 'risotto'
